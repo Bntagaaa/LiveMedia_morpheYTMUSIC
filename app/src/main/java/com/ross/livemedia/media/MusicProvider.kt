@@ -27,6 +27,11 @@ enum class MusicProvider(
         "com.google.android.apps.youtube.music",
         R.drawable.youtube_music
     ),
+    YOUTUBE_MUSIC_Morphe(
+        "YouTube Music",
+        "app.morphe.android.apps.youtube.music",
+        R.drawable.youtube_music
+    ),
     SOUNDCLOUD(
         "SoundCloud",
         "com.soundcloud.android",
